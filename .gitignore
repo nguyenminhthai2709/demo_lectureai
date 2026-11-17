@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+backend/.venv/
+backend/uploads/
+.pytest_cache/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Env
+.env
+backend/.env
+frontend/.env
